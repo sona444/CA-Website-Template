@@ -1,0 +1,155 @@
+  *{
+      font-family:"Montserrat";
+  }
+  nav{
+      background-color: white;
+  }
+  .nav-link{
+      color:black;
+  }
+  nav{
+      align-items: center;
+  }
+  .nav-item{
+      padding:13px;
+  }
+  .text{
+      margin-top:10px;
+  }
+  .dropdown:hover .dropdown-menu{
+      display: block;
+      transition:500ms ease;
+  }
+  .button-top{
+    position:fixed;
+    bottom:10%;
+    right:10%;
+    z-index:80;
+    background-color:transparent;
+    border:1px solid black;
+    color:black;
+    padding:7px 15px;
+    font-size:30px;
+}
+  #contact{
+      padding:12px;
+      padding-left:30px;
+      padding-right:30px;
+      border-radius:10px;
+      background-color:#51C6EE;
+      color:white;
+      border:0;
+  }
+  .second{
+      background-color:#e2dfdf;
+      padding:10px;
+  }
+  .about{
+      text-align:center;
+      font-weight:600;
+  }
+  .mini{
+      float:left;
+  }
+  .maxi{
+      margin-top:80px;
+  }
+  .mini{
+      margin-top:60px;
+  }
+  .numbers{
+      float:left;
+      padding-top:150px;
+      padding-bottom:150px;
+      text-align: center;
+  }
+  .number{
+      font-size: 35px;
+  }
+  .fourth{
+    background-color: #F8F8F8;
+  }
+  .fourthtext{
+      padding:50px;
+      margin-left:80px;
+  }
+  .fifth{
+    background-color: #F8F8F8;
+  }
+  .fifthtext{
+    padding:50px;
+}
+.sixth{
+    max-height:700px;
+}
+.six-1{
+    text-align:center;
+    margin-top:100px;
+}
+.client{
+    margin-top:40px;
+    max-height:215px;
+    overflow:hidden;
+}
+.clients{
+    text-align:center;
+    float:left;
+    transition:500ms ease;
+}
+.clients img{
+    border-radius:50%;
+}
+.li6{
+    list-style-type:circle;
+    float:left;
+}
+.rocks{
+    background-color: white;
+    padding:100px;
+    float:left;
+    max-height:380px;
+}
+.rock-dot{
+    justify-content: center;
+}
+.rock-dot-1{
+    float:left;
+    border:0;
+    margin:10px;
+    padding:2px 7px;
+    border-radius:50%;
+    background-color:#EBEBEB;
+    color:#EBEBEB;
+    font-size:10px;
+    margin-left:48%;
+}
+.rock-dot-2{
+    float:left;
+    margin:10px;
+    border:0;
+    padding:2px 7px;
+    border-radius:50%;
+    background-color: #EBEBEB;
+    color:#EBEBEB;
+    font-size:10px;
+}
+.rock-dot-3{
+    float:left;
+    border-radius:50%;
+    margin:10px;
+    border:0;
+    padding:2px 7px;
+    background-color: #EBEBEB;
+    color:#EBEBEB;
+    font-size:10px;
+}
+footer{
+    line-height:10px;
+    margin-top:50px;
+    padding-top:40px;
+    padding-bottom:40px;
+    background-color: #EBEBEB;
+}
+footer .nav-link{
+    color:black;
+}

@@ -1,0 +1,191 @@
+*{
+    font-family:"Montserrat";
+}
+.nav-link{
+    color:black;
+}
+.fixed-top{
+    background-color:white;
+}
+nav{
+    align-items: center;
+}
+.nav-item{
+    padding:13px;
+}
+.text{
+    margin-top:10px;
+}
+.navbar .dropdown:hover .dropdown-menu{
+    display: block;
+    transition:500ms ease;
+}
+.button-top{
+  position:fixed;
+  bottom:10%;
+  right:10%;
+  z-index:80;
+  background-color:transparent;
+  border:1px solid black;
+  color:black;
+  padding:7px 15px;
+  font-size:30px;
+}
+#contact{
+    padding:12px;
+    padding-left:30px;
+    padding-right:30px;
+    border-radius:10px;
+    background-color:#51C6EE;
+    color:white;
+    border:0;
+}
+#chartContainer{
+    margin:30px;
+}
+.x img{
+    margin-top:30px;
+}
+.sidebar {
+    position: sticky;
+    top: 0;
+}
+.second{
+    background-color:#e2dfdf;
+    padding:10px;
+    margin-bottom:20px;
+    text-align: center;
+}
+.services{
+    text-align:center;
+    font-weight:600;
+}
+.text{
+    padding:15px;
+}
+.text-message{
+    padding:20px;
+    min-height:180px;
+    width:100%;
+    margin-top:10px;
+}
+.button{
+    padding:10px;
+    background-color:black;
+    color:white;
+    border:0;
+    margin-top:15px;
+}
+.active{
+    background-color: black;
+    
+}
+.active .nav-link{
+    color:white;
+}
+.vert{
+    padding:10px 45px;
+    border-bottom:1px solid grey;
+}
+.x{
+    float:left;
+    margin-top:20px;
+    margin-bottom:20px;
+    transition:500ms ease;
+}
+.navi{
+    vertical-align: top;
+}
+.black{
+    background-color: black;
+    padding:0px 30px;
+    border-radius:10px;
+    font-size:3px;
+}
+#drop{
+    width:100%;
+}
+#drop-main{
+    margin-bottom:30px;
+}
+.btn{
+    border:0;
+    padding:10px;
+    width:100%;
+}
+.content{
+    padding:15px;
+}
+.content-text{
+   display:none;
+   background-color:#F8F9F9;
+   padding:20px;
+}
+.things{
+    margin-top:50px;
+}
+.btn .fa-minus{
+    display:none;
+}
+.active2 .fa-minus{
+    display:inline-block;
+}
+.active2 .fa-plus{
+    display:none;
+}
+.active2 ~ .content-text{
+    display:block;
+}
+.drop-text{
+    overflow:hidden;
+    max-height:150px;
+}
+.third .nav-item{
+    padding:10px;
+}
+.third a{
+    color:black;
+}
+.blog img{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.navi{
+    margin-top:30px;
+}
+.active3{
+    background-color:white;
+}
+.btn2{
+    background-color:#e2dfdf;
+    border:0;
+    padding:10px;
+    width:100%;
+}
+.blue{
+    color:darkblue;
+    font-weight: 700;
+}
+.contact1{
+    background-color:darkblue;
+    color:white;
+    padding:10px;
+    border:0;
+}
+.contact2{
+    background-color:#1ABC9C;
+    padding:30px;
+    text-align: center;
+    line-height:30px;
+    border-radius:10px;
+}
+footer{
+    line-height:10px;
+    padding-top:40px;
+    padding-bottom:40px;
+    background-color: #EBEBEB;
+    margin-top:40px;
+}
+footer .nav-link{
+    color:black;
+}
